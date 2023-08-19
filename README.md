@@ -1,3 +1,6 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arya512ht.arya512ht&"  />
+</div>
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -25,13 +28,7 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arya512ht.arya512ht&"  />
-</div>
-
-###
 
 <h1 align="center">Hey there 👋</h1>
 
@@ -40,11 +37,12 @@
 <h4 align="left">👩‍💻  As a Computer Science and Engineering student, I have expertise in web development with a focus on React and Node.js, and I am highly passionate about C++ programming. I excel in collaborative environments and aim to create efficient, scalable, and user-friendly solutions that tackle real-world problems. My adaptability enables rapid learning of new technologies and requirements, making me a valuable asset for any team.</h4>
 
 ###
-
+</br>
 <p align="left">I'm Arya from Kolkata<br><br>- 🔭 I’m working as a undergrad student<br>- 📚 I'm currently pursuing B.Tech from HITK<br>- ⚡ In my free time I like to do coding<br>- ✈️ Passionate explorer always seeking new horizons</p>
 
 ###
 
+</br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -172,8 +170,12 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/arya512ht/arya512ht/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <br/>
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://raw.githubusercontent.com/arya512ht/arya512ht/output/snake.svg" alt="Snake animation" />
+  <br/><br/>
+</div>
 
 ###
 
@@ -185,6 +187,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arya512ht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arya512ht&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=arya512ht&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+</div>
