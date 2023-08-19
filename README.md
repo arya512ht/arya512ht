@@ -173,7 +173,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arya512ht/arya512ht/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/arya512ht/arya512ht/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
