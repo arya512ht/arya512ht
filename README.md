@@ -169,13 +169,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
-<div align="center">
-  <br/>
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/arya512ht/arya512ht/output/snake.svg" alt="Snake animation" />
-  <br/><br/>
-</div>
+
 
 ###
 
